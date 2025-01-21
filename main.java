@@ -9,7 +9,7 @@ public class Song
    
     public Song(String Kuenstler, String Titel, float Dauer)
     {
-        
+        Print "Hello"
         
 
     }
