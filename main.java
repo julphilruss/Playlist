@@ -9,7 +9,10 @@ public class Song
    
     public Song(String Kuenstler, String Titel, float Dauer)
     {
-        Print "Hello"
+        this.Kuenstler = Kuenstler;
+        this.Titel = Titel;
+        this.Dauer = Dauer;
+        
         
 
     }
